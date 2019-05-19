@@ -29,7 +29,7 @@ class ChattyCathy:
         :param bot_token: Full secret bot token
         """
         self.channel_name = channel_name
-        self.token = bot_token
+        self.token = NTc5NzM5NzI2MDA1Nzk2ODk0.XOGi1Q.r7wovKtzmlApMPoOkOuwi6nUHnI
 
         # Load AIML kernel
         self.aiml_kernel = aiml.Kernel()
